@@ -5,5 +5,5 @@
  * Date: 21.04.2016
  * Time: 08:32
  */
-echo "Master new version";
+echo "Master New version";
 echo phpinfo();
